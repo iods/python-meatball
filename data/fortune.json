@@ -808,6 +808,14 @@
         "color": "Black",
         "condition": 3,
         "restaurant": "Unknown"
+      },
+      {
+        "id": 102,
+        "text": "A refreshing change is in your future.",
+        "numbers": [4, 7, 9, 18, 27, 33],
+        "color": "Red",
+        "condition": 5,
+        "restaurant": "Panda Express"
       }
     ]
   }
