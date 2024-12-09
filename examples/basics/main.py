@@ -1,8 +1,8 @@
 # Iods Python Development
-import data_types
 
-print('Dark Society Python Development')
+# print('Dark Society Python Development')
 
 year = input('What year were you born?\n')
-age = 2020 - int(year)
-print(f'Hey, Rye, you are {age} years old.')
+age = 2024 - int(year)
+name= input('What is your name?\n')
+print(f'Hey {name}, you are {age} years old.')
